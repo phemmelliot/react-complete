@@ -1,0 +1,37 @@
+.person {
+  margin: 16px auto;
+  border: 1px solid #eee;
+  width: 60%;
+  background-color: #e3e3e3;
+}
+
+.person:hover {
+  box-shadow: 4px 4px #ddd;
+  transform: translate(-0.2%, -5%);
+}
+
+.action-box {
+  margin-bottom: 10px;
+}
+
+.action-button {
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  background-color: rgb(18, 216, 18);
+  color: white;
+}
+
+.action-button:focus {
+  outline: none;
+  border: none;
+}
+
+.input-box {
+  padding: 10px;
+}
+
+.input-box:first-of-type {
+  margin-right: 10px;
+}
