@@ -35,3 +35,7 @@
 .input-box:first-of-type {
   margin-right: 10px;
 }
+
+.auth {
+  font-size: 20px;
+}

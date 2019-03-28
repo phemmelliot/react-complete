@@ -1,0 +1,13 @@
+.action-button {
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  background-color: rgb(18, 87, 216);
+  color: white;
+}
+
+.action-button:focus {
+  outline: none;
+  border: none;
+}
